@@ -2,6 +2,8 @@
 
 ## I need to add some context here later, current level of education and skills, why im doing this 100 days and what im hoping to achieve... consistency ect
 
+### Also add a custom git contribution tracker just for this next 100 days !
+
 ## Day 1 - 31st May 2024
 
 ### Project: Modular Building Construction Company Website
@@ -21,3 +23,17 @@ Today, I focused on refactoring the HTML and CSS for a business website I’m bu
 
 
 ## Day 2 - 1st June 2024
+
+### Project: My Personal Portfolio Website
+
+Today, I have started back working on my personal portfolio website v3 that I've been procrastinating on for a while.
+The section I was focused on was building a card component to be used on the portfolio page of the website to showcase some of my personal projects and previous work.
+
+**Key areas of focus:**
+
+1. Making the card component reusable for multiple projects
+2. Utilizing Flexbox for layout of the seperate elements of the card
+3. Using Descriptive Class names
+
+
+## Day 3 - 2nd June 2024
