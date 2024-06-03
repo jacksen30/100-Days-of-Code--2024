@@ -95,9 +95,20 @@ I've included some CSS code snippets below:
 
 ## Day 4 - 2nd June 2024
 
-### Project:
+### Project: My Personal Portfolio Website
 
-Today, I .
+Today, I continued working on the card component that will showcase my projects on the "portfolio" page of my personal portfolio website.
+
+**Key area of focus:**
+
+1.	Moving hoverable state CSS declarations into a media query for hoverable devices.
+2.	Updating the card color scheme to align better with the other pages and components of the website. I used CSS custom variables that were already in use elsewhere on the site, ensuring that the card components’ colors change to match the rest of the theme when the user toggles between dark and light modes.
+
+
+## Day 5 - 4th June 2024
+
+### Project:
+Today, I
 
 **Key areas of focus:**
 
