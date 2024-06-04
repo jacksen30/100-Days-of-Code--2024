@@ -107,11 +107,18 @@ Today, I continued working on the card component that will showcase my projects 
 
 ## Day 5 - 4th June 2024
 
-### Project:
-Today, I
+### Project: Modular Building Construction Company Website
+
+Today, I focused on writing the CSS declarations for the responsive design for desktop screen sizes on the main homepage sections. Additionally, I decided to simplify the current header and nav bar. Initially, I had integrated a hero section into the header, with plans to display images in a timed loop and include pagination. However, this design did not aesthetically fit with the rest of the site. To avoid delays in launching the website, I decided to create a more basic MVP and will improve on it further in the future.
 
 **Key areas of focus:**
 
-1.
-2.
-3.
+1. Responsive Design - Utilizing Flexbox for layout
+2. Header and Nav Structure - Building and refactoring the structure, and styling it appropriately for the user’s viewport.
+3. Figma - Working from a Figma wireframe, Doing my best to match the wireframe 100%
+
+
+### Additional Activities:
+
+- Continued reading the eBook *Ten Ways to Make Money as a Developer* by Florin Pop (read for 20 minutes)
+
