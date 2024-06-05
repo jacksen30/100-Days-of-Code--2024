@@ -116,3 +116,16 @@ Today, I focused on writing the CSS declarations for the responsive design for d
 1. Responsive Design - Utilizing Flexbox for layout
 2. Header and Nav Structure - Building and refactoring the structure, and styling it appropriately for the user’s viewport.
 3. Figma - Working from a Figma wireframe, Doing my best to match the wireframe 100%
+
+
+## Day 6 - 5th June 2024
+
+### Project: My Personal Portfolio Website
+
+Today I only had 1 Hour spare due to other commitments, but I really want to do my best to maintain a minimum of 1 hour of coding / studying programming every day for 100 Days ! So I sat down and got it done :muscle: 
+I moved onto the contact form page . I had written the basic HTML structure a couple of months ago for the form so spent my time familarising myself with the code I had already wrote and started applying some css styling to the form wrapper, input fields and the submit button. Im trying to make the contact form as modular and as reuseable as possible as I have some other websites im currently working on and would be happy to re-use a good portion of this code to speed up my workflow.
+
+**Key areas of focus:**
+
+1. HTML Forms
+2. Responsive Design - Mobile First
