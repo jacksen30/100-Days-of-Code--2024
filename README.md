@@ -93,7 +93,7 @@ I've included some CSS code snippets below:
 
 - Continued reading the eBook *Ten Ways to Make Money as a Developer* by Florin Pop (read for 20 minutes)
 
-## Day 4 - 2nd June 2024
+## Day 4 - 3rd June 2024
 
 ### Project: My Personal Portfolio Website
 
@@ -116,9 +116,3 @@ Today, I focused on writing the CSS declarations for the responsive design for d
 1. Responsive Design - Utilizing Flexbox for layout
 2. Header and Nav Structure - Building and refactoring the structure, and styling it appropriately for the user’s viewport.
 3. Figma - Working from a Figma wireframe, Doing my best to match the wireframe 100%
-
-
-### Additional Activities:
-
-- Continued reading the eBook *Ten Ways to Make Money as a Developer* by Florin Pop (read for 20 minutes)
-
