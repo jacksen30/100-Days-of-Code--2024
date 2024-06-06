@@ -122,10 +122,32 @@ Today, I focused on writing the CSS declarations for the responsive design for d
 
 ### Project: My Personal Portfolio Website
 
-Today I only had 1 Hour spare due to other commitments, but I really want to do my best to maintain a minimum of 1 hour of coding / studying programming every day for 100 Days ! So I sat down and got it done :muscle: 
-I moved onto the contact form page . I had written the basic HTML structure a couple of months ago for the form so spent my time familarising myself with the code I had already wrote and started applying some css styling to the form wrapper, input fields and the submit button. Im trying to make the contact form as modular and as reuseable as possible as I have some other websites im currently working on and would be happy to re-use a good portion of this code to speed up my workflow.
+Today, I had only one hour to spare due to other commitments. However, I am committed to maintaining at least one hour of coding or studying programming every day for 100 days. So, I made sure to sit down and get it done :muscle:
+
+I focused on the contact form page. A couple of months ago, I wrote the basic HTML structure for the form, so I spent my time familiarizing myself with the code and started applying CSS styling to the form wrapper, input fields, and the submit button. My goal is to make the contact form as modular and reusable as possible, as I have other websites I’m currently working on and would like to reuse a good portion of this code to speed up my workflow.
 
 **Key areas of focus:**
 
 1. HTML Forms
 2. Responsive Design - Mobile First
+
+
+## Day 7 - 6th June 2024
+
+### Project: My Personal Portfolio Website
+
+Today, I continued styling my contact form and added client-side JavaScript validation for inputs before allowing form submission. I’m satisfied with my validation functions as they achieve the desired result, but I’m already considering ways to refactor them for improved modularity and conciseness. Additionally, I focused on creating and styling error states for when the form fails validation, such as when a name is not supplied, the email address doesn’t match the standard pattern, or the message text hasn’t reached the minimum character count.
+
+
+**Key areas of focus:**
+
+1.	JavaScript - Writing functions to validate user input before submitting the form to the server.
+2.	UI/UX Design Principles - Designing user hints and error states.
+3.	JavaScript - Adding and removing CSS classes to UI elements based on form validation success or failure.
+4.	CSS - Styling error states, warning icons, and user hints/messages to indicate what requires attention before submission can be completed.
+
+### Additional Activities:
+
+- Continued reading the eBook *Ten Ways to Make Money as a Developer* by Florin Pop (read for 20 minutes)
+- Discovered the Coding Sloth YouTube channel, which appears to be a fantastic learning resource. Watched one of his videos on the importance of logical and problem-solving thinking as a developer.
+- Signed up for a 28-day trial on Brilliant.com to explore their interactive courses on coding, computer science, data structures, and algorithms. I’ve studied DSA before but could definitely use a refresher.
