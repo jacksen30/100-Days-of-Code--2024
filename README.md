@@ -151,3 +151,14 @@ Today, I continued styling my contact form and added client-side JavaScript vali
 - Continued reading the eBook *Ten Ways to Make Money as a Developer* by Florin Pop (read for 20 minutes)
 - Discovered the Coding Sloth YouTube channel, which appears to be a fantastic learning resource. Watched one of his videos on the importance of logical and problem-solving thinking as a developer.
 - Signed up for a 28-day trial on Brilliant.com to explore their interactive courses on coding, computer science, data structures, and algorithms. I’ve studied DSA before but could definitely use a refresher.
+
+
+## Day 8 - 7th June 2024
+
+### Learning Platform: Brilliant.com
+
+Today, I didn't manage my time well and left my coding until to late. So with the short time I did have I made a start on the Computer Science course on brilliant.com
+
+**Key areas of focus:**
+
+1.	
