@@ -153,12 +153,23 @@ Today, I continued styling my contact form and added client-side JavaScript vali
 - Signed up for a 28-day trial on Brilliant.com to explore their interactive courses on coding, computer science, data structures, and algorithms. I’ve studied DSA before but could definitely use a refresher.
 
 
-## Day 8 - 7th June 2024
+## Day 8 - 7th June 2024 & Day 9 - 8th June 2024
 
 ### Learning Platform: Brilliant.com
 
-Today, I didn't manage my time well and left my coding until to late. So with the short time I did have I made a start on the Computer Science course on brilliant.com
+Limited amount of spare time on these 2 days but have started the brilliant.org CS & Programming Learning Path to refresh and further develop skills in programming and algorithmic thinking.
 
-**Key areas of focus:**
+Currently working through Level 1.1 - Thinking In Code
 
-1.	
+It doesnt cover a specific language, but the thought process and foundations for computational problem solving. The concepts and logical way of thinking is something I feel quite familiar with so it has been easy for me to complete the lessons. I really am enjoying the refresher though and the way they teach the concepts on the "brilliant platform" its very interactive and explains the concepts in a much more relatable way then some of the other introductory courses I'd taken a couple of years ago.
+
+**Key Subjects of Learning / Revision:**
+
+1. Computational Problem Solving
+2. Writing Basic Programs
+3. Loops & While Loops
+4. Variables
+5. Boolean Expressions
+6. Comparison Oprators
+7. Recognizing Patterns
+8. Conditional Statements
