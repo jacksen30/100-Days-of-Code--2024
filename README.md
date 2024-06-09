@@ -10,7 +10,7 @@
 
 Today, I focused on refactoring the HTML and CSS for a business website I’m building for a friend's modular building construction company.
 
-**Key areas of focus:**
+**Key Areas of Focus:**
 
 1. Using semantically correct HTML elements
 2. Implementing a mobile-first design approach
@@ -29,7 +29,7 @@ Today, I focused on refactoring the HTML and CSS for a business website I’m bu
 Today, I have started back working on my personal portfolio website v3 that I've been procrastinating on for a while.
 The section I was focused on was building a card component to be used on the portfolio page of the website to showcase some of my personal projects and previous work.
 
-**Key areas of focus:**
+**Key Areas of Focus:**
 
 1. Making the card component reusable for multiple projects
 2. Utilizing Flexbox for layout of the seperate elements of the card
@@ -42,7 +42,7 @@ The section I was focused on was building a card component to be used on the por
 
 Today, I continued working on the card component that will showcase my projects on the "portfolio" page of my personal portfolio website. I was able to reuse most of the HTML and CSS code that I had previuously used in version-2 of my portfolio (This will be version-3 of my Portfolio Website when Im finished :laughing:)
 
-**Key area of focus:**
+**Key Areas of Focus:**
 
 1. Making the project text description section of the cards expandable with a “Read Full Description / Show Less” toggle. This leads to a cleaner UI and an improved UX, giving users the choice to view the full description or not. I achieved this functionality with just HTML and CSS by using a checkbox as a button, setting custom CSS variables for the line height and the maximum number of lines shown, and using CSS calc, overflow: hidden, and the ::before and ::after pseudo-classes.
 
@@ -99,7 +99,7 @@ I've included some CSS code snippets below:
 
 Today, I continued working on the card component that will showcase my projects on the "portfolio" page of my personal portfolio website.
 
-**Key area of focus:**
+**Key Areas of Focus:**
 
 1.	Moving hoverable state CSS declarations into a media query for hoverable devices.
 2.	Updating the card color scheme to align better with the other pages and components of the website. I used CSS custom variables that were already in use elsewhere on the site, ensuring that the card components’ colors change to match the rest of the theme when the user toggles between dark and light modes.
@@ -111,7 +111,7 @@ Today, I continued working on the card component that will showcase my projects 
 
 Today, I focused on writing the CSS declarations for the responsive design for desktop screen sizes on the main homepage sections. Additionally, I decided to simplify the current header and nav bar. Initially, I had integrated a hero section into the header, with plans to display images in a timed loop and include pagination. However, this design did not aesthetically fit with the rest of the site. To avoid delays in launching the website, I decided to create a more basic MVP and will improve on it further in the future.
 
-**Key areas of focus:**
+**Key Areas of Focus:**
 
 1. Responsive Design - Utilizing Flexbox for layout
 2. Header and Nav Structure - Building and refactoring the structure, and styling it appropriately for the user’s viewport.
@@ -126,7 +126,7 @@ Today, I had only one hour to spare due to other commitments. However, I am comm
 
 I focused on the contact form page. A couple of months ago, I wrote the basic HTML structure for the form, so I spent my time familiarizing myself with the code and started applying CSS styling to the form wrapper, input fields, and the submit button. My goal is to make the contact form as modular and reusable as possible, as I have other websites I’m currently working on and would like to reuse a good portion of this code to speed up my workflow.
 
-**Key areas of focus:**
+**Key Areas of Focus:**
 
 1. HTML Forms
 2. Responsive Design - Mobile First
@@ -139,7 +139,7 @@ I focused on the contact form page. A couple of months ago, I wrote the basic HT
 Today, I continued styling my contact form and added client-side JavaScript validation for inputs before allowing form submission. I’m satisfied with my validation functions as they achieve the desired result, but I’m already considering ways to refactor them for improved modularity and conciseness. Additionally, I focused on creating and styling error states for when the form fails validation, such as when a name is not supplied, the email address doesn’t match the standard pattern, or the message text hasn’t reached the minimum character count.
 
 
-**Key areas of focus:**
+**Key Areas of Focus:**
 
 1.	JavaScript - Writing functions to validate user input before submitting the form to the server.
 2.	UI/UX Design Principles - Designing user hints and error states.
@@ -168,8 +168,53 @@ It doesnt cover a specific language, but the thought process and foundations for
 1. Computational Problem Solving
 2. Writing Basic Programs
 3. Loops & While Loops
-4. Variables
-5. Boolean Expressions
-6. Comparison Oprators
-7. Recognizing Patterns
-8. Conditional Statements
+4. Recognizing Patterns
+
+
+## Day 10 - 9th June 2024
+
+### Learning Platform: Brilliant.com
+
+Today, I continued on with the CS & Programming Learning Path on Brilliant.com
+
+
+**Key areas of Learning / Revision:**
+
+1. Practice Recognizing Patterns
+2. Using Conditional Statements
+
+
+### Additional Activities:
+
+- Continued reading the eBook *Ten Ways to Make Money as a Developer* by Florin Pop (20 minutes)
+- Created a Notion Document to take notes of the most important takeaways from my reading of *Ten Ways to Make Money as a Developer* (30 minutes)
+
+
+
+
+**Todays ESTIMATE - ROUGH PLAN FOR TOMORROW UPDATE TOMORROW !!**
+## Day 11 - 10th June 2024
+
+### Project: My Personal Portfolio Website + Continued CS & Programming Learning Path on Brilliant.com
+
+Today, I continued on with the CS & Programming Learning Path on Brilliant.com 
+
+styling my contact form and added client-side JavaScript validation for inputs before allowing form submission. I’m satisfied with my validation functions as they achieve the desired result, but I’m already considering ways to refactor them for improved modularity and conciseness. Additionally, I focused on creating and styling error states for when the form fails validation, such as when a name is not supplied, the email address doesn’t match the standard pattern, or the message text hasn’t reached the minimum character count.
+
+
+
+**Key areas of Focus / Learning / Revision:**
+
+4. Practice Recognizing Patterns
+8. Using Conditional Statements
+
+1.	JavaScript - Writing functions to validate user input before submitting the form to the server.
+2.	UI/UX Design Principles - Designing user hints and error states.
+3.	JavaScript - Adding and removing CSS classes to UI elements based on form validation success or failure.
+4.	CSS - Styling error states, warning icons, and user hints/messages to indicate what requires attention before submission can be completed.
+
+### Additional Activities:
+
+- Continued reading the eBook *Ten Ways to Make Money as a Developer* by Florin Pop (20 minutes)
+- Created a Notion Document to take notes of the most important takeaways from my reading of *Ten Ways to Make Money as a Developer* (30 minutes)
+- Signed up for a 28-day trial on Brilliant.com to explore their interactive courses on coding, computer science, data structures, and algorithms. I’ve studied DSA before but could definitely use a refresher.
