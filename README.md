@@ -191,30 +191,38 @@ Today, I continued on with the CS & Programming Learning Path on Brilliant.com
 
 
 
-
-**Todays ESTIMATE - ROUGH PLAN FOR TOMORROW UPDATE TOMORROW !!**
 ## Day 11 - 10th June 2024
 
 ### Project: My Personal Portfolio Website + Continued CS & Programming Learning Path on Brilliant.com
 
-Today, I continued on with the CS & Programming Learning Path on Brilliant.com 
+Today, I made several improvements to my portfolio website:
 
-styling my contact form and added client-side JavaScript validation for inputs before allowing form submission. I’m satisfied with my validation functions as they achieve the desired result, but I’m already considering ways to refactor them for improved modularity and conciseness. Additionally, I focused on creating and styling error states for when the form fails validation, such as when a name is not supplied, the email address doesn’t match the standard pattern, or the message text hasn’t reached the minimum character count.
+- Contact Form Alignment: Adjusted the contact form alignment for larger desktop viewports to ensure a more polished look.
+- Text Area Enhancements: Improved the user experience of the text area by setting textarea {resize: none} and increasing its default height using the rows attribute. This prevents users from needing to scroll up after writing just three lines. I plan to further research how to enable dynamic resizing when users input more than nine rows of text.
 
+
+I continued on with the CS & Programming Learning Path on Brilliant.com:
+
+I've recently started on the Brilliant platform (free 1 month trial) and this course so its revision of concepts I have a very good grasp of already but am finding it good to go over the fundamentals again as its sparking the odd new insight and reinforcing my understanding of core programming principles. Todays Revision Topics Were:
+
+**Conditional Statements:**
+- Purpose: Used primarily for decision-making and control flow within programs, allowing different actions based on conditions.
+- Benefits: Simplifies complex logic into manageable steps, making code more readable and maintainable.
+
+**While Loops:**
+- Usage: Ideal for repeatedly executing a block of code as long as a condition is true, especially when the number of iterations is unknown.
+- Benefits: Automates repetitive tasks, increasing efficiency and reducing manual intervention.
 
 
 **Key areas of Focus / Learning / Revision:**
 
-4. Practice Recognizing Patterns
-8. Using Conditional Statements
+1.	UI/UX Design Principles
+2.	Textarea HTML Element - available attributes and styling
 
-1.	JavaScript - Writing functions to validate user input before submitting the form to the server.
-2.	UI/UX Design Principles - Designing user hints and error states.
-3.	JavaScript - Adding and removing CSS classes to UI elements based on form validation success or failure.
-4.	CSS - Styling error states, warning icons, and user hints/messages to indicate what requires attention before submission can be completed.
+3. Conditional Statement Fundamentals
+4. While loop Fundamentals
+
 
 ### Additional Activities:
 
-- Continued reading the eBook *Ten Ways to Make Money as a Developer* by Florin Pop (20 minutes)
-- Created a Notion Document to take notes of the most important takeaways from my reading of *Ten Ways to Make Money as a Developer* (30 minutes)
-- Signed up for a 28-day trial on Brilliant.com to explore their interactive courses on coding, computer science, data structures, and algorithms. I’ve studied DSA before but could definitely use a refresher.
+- Continued reading the eBook *Ten Ways to Make Money as a Developer* by Florin Pop (25 minutes)
