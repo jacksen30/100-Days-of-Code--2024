@@ -226,3 +226,18 @@ I've recently started on the Brilliant platform (free 1 month trial) and this co
 ### Additional Activities:
 
 - Continued reading the eBook *Ten Ways to Make Money as a Developer* by Florin Pop (25 minutes)
+
+
+## Day 12 - 11th June 2024
+
+### Learning Platform: Brilliant.com
+
+Unfortunatley I didnt manage my time very well today and was disappoionted with the little time and effot I did manage to commit to my #100 days of Code Journey. Today consisted of some further revison and practice challenges related to Conditional Statements and While loops and also 25 minutes of Reading of *Ten Ways to Make Money as a Developer* by Florin Pop (25 minutes)
+
+Moving forward I hope to have much better focused days as achieving consistency with my studies and daily coding is something that is super important to me.
+
+
+
+
+
+
