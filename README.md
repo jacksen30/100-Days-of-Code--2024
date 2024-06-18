@@ -4,6 +4,51 @@
 
 ### Also add a custom git contribution tracker just for this next 100 days !
 
+## Day 1 - 18th June 2024
+
+### Project: My Personal Portfolio Website
+
+Today, I have started back working on my personal portfolio website v3 that I've been procrastinating on for a while.
+
+I had an issue with the Theme toggler code I had written, it worked fine on the home page where I was also updating the theme of my github stats card but on the other pages were this element didn't exist the variable that refrences that HTML elemement was returning null creating a runtime error. To fix this I implemented a guard clause if (githubStatCard !== null) to check that the Github Stats Card is an element within the current page if not the code to change the Src attribute is not ran.
+
+I also refactored some of the functions I use to toggle the theme, I had some if else statements that I decide to make more concise with ternary statements:
+
+Previous Code:
+
+function toggleTheme() {
+  if (theme === 'dark-theme') {
+        theme = 'light-theme';
+  } else {
+        theme = 'dark-theme';
+    }
+}
+
+Refactored with Ternary Operator:
+
+function toggleTheme() {
+    theme === 'dark-theme' ? theme = 'light-theme' : theme = 'dark-theme';
+}
+
+
+**Key Areas of Focus:**
+
+1. JavaScript
+2. Guard Clauses
+3. Ternary Operators
+
+
+### Additional Activities:
+--
+
+
+
+
+
+----------------------------------
+# My First Attempt at #100 days of code, after missing a few days have decided to restart on the 18th of June
+
+
 ## Day 1 - 31st May 2024
 
 ### Project: Modular Building Construction Company Website
@@ -237,7 +282,35 @@ Unfortunatley I didnt manage my time very well today and was disappoionted with 
 Moving forward I hope to have much better focused days as achieving consistency with my studies and daily coding is something that is super important to me.
 
 
+## Day 13 - 12th June 2024
 
+### Project: My Personal Portfolio Website + Continued CS & Programming Learning Path on Brilliant.com
+
+Today, I made several improvements to my portfolio website:
+
+- 
+-
+
+
+I continued on with the CS & Programming Learning Path on Brilliant.com:
+
+Todays Revision Topics Were:
+
+**Combining multiple Conditional Statements and nested loops** to solve more complex problems by enabling detailed control over program flow and iteration processes, making it possible to handle intricate problems effectively.
+
+
+**Key areas of Focus / Learning / Revision:**
+
+1.	UI/UX Design Principles
+2.	Textarea HTML Element - available attributes and styling
+
+3. Conditional Statement Fundamentals
+4. Nested Loop Fundamentals
+
+
+### Additional Activities:
+
+- Continued reading the eBook *Ten Ways to Make Money as a Developer* by Florin Pop (25 minutes)
 
 
 
