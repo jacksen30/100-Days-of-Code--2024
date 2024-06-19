@@ -6,7 +6,7 @@
 
 ## Day 1 - 18th June 2024
 
-### Project: My Personal Portfolio Website + Learning Platform: Brilliant.com - CS & Programming Learning Path
+### Project: My Personal Portfolio Website
 
 Today, I resumed work on my personal portfolio website v3, which I had been procrastinating on for a while.
 
@@ -34,7 +34,7 @@ function toggleTheme() {
 }
 ```
 
-### Learning Platform: Brilliant.com
+### Learning Platform: Brilliant.org - CS & Programming Learning Path
 
 A fortnight ago, I started the Brilliant.org CS & Programming Learning Path to refresh and further develop my skills in programming and algorithmic thinking.
 
@@ -54,6 +54,35 @@ The full learning path consists of 5 levels with 2 units each, making a total of
 - Loops
 - Boolean Expressions and Comparison Operators
 
+
+
+## Day 2 - 19th June 2024
+
+### Project: My Personal Portfolio Website
+
+
+### Book Reading: Ten Ways to Make Money as a Developer by Florin Pop
+
+Today, I finished reading the ebook Ten Ways to Make Money as a Developer by Florin Pop. (Its taken me roughly 2 weeks to finish the book due to my limited amount of free time lately). I thoroughly enjoyed the book and highly recommend it to both aspiring and experienced developers. The book is short and concise, providing plenty of resources and links for deeper exploration if desired. This format really sparked my own creative thinking about how I could potentially make money from my skills beyond just being an employee.
+
+The main topics from the book that I’m excited to explore further and take action on are:
+
+1.	Creating Educational YouTube Content: This will not only reinforce my own learning and retention of complex subjects but also help others starting out with JavaScript. Being relatively early in my journey, I can still relate to the challenges beginners face, which some experts may overlook when teaching.
+2.	Contributing to Open Source: I want to dedicate my time and skills to a worthwhile open source community.
+3.	Building a SaaS Product (Software as a Service - Subscription): I’m excited about the potential of developing a subscription-based software product.
+
+
+
+**Key Areas of Focus:**
+
+1. Exploring ways I could monetize my skills as a developer
+2. 
+3. 
+
+
+
+### Additional Activities:
+-
 
 
 
