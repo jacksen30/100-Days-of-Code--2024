@@ -6,16 +6,17 @@
 
 ## Day 1 - 18th June 2024
 
-### Project: My Personal Portfolio Website
+### Project: My Personal Portfolio Website + Learning Platform: Brilliant.com - CS & Programming Learning Path
 
-Today, I have started back working on my personal portfolio website v3 that I've been procrastinating on for a while.
+Today, I resumed work on my personal portfolio website v3, which I had been procrastinating on for a while.
 
-I had an issue with the Theme toggler code I had written, it worked fine on the home page where I was also updating the theme of my github stats card but on the other pages were this element didn't exist the variable that refrences that HTML elemement was returning null creating a runtime error. To fix this I implemented a guard clause if (githubStatCard !== null) to check that the Github Stats Card is an element within the current page if not the code to change the Src attribute is not ran.
+I encountered an issue with the theme toggler code. It worked fine on the home page, where I also updated the theme of my GitHub stats card. However, on other pages where this element didn’t exist, the variable referencing that HTML element returned null, creating a runtime error. To fix this, I implemented a guard clause: if (githubStatCard !== null) to check if the GitHub Stats Card is present on the current page. If not, the code to change the src attribute is not executed.
 
-I also refactored some of the functions I use to toggle the theme, I had some if else statements that I decide to make more concise with ternary statements:
+I also refactored some functions used to toggle the theme. Previously, I had if-else statements that I decided to make more concise using ternary operators:
 
 Previous Code:
 
+```javascript
 function toggleTheme() {
   if (theme === 'dark-theme') {
         theme = 'light-theme';
@@ -23,24 +24,35 @@ function toggleTheme() {
         theme = 'dark-theme';
     }
 }
+```
 
 Refactored with Ternary Operator:
 
+```javascript
 function toggleTheme() {
     theme === 'dark-theme' ? theme = 'light-theme' : theme = 'dark-theme';
 }
+```
 
+### Learning Platform: Brilliant.com
 
-**Key Areas of Focus:**
+A fortnight ago, I started the Brilliant.org CS & Programming Learning Path to refresh and further develop my skills in programming and algorithmic thinking.
 
-1. JavaScript
+Today, I completed the first unit: Level 1.1 Computational Thinking - Thinking in Code.
+
+This unit doesn’t cover a specific language but focuses on the thought process and foundations for computational problem-solving. The concepts and logical thinking are familiar to me, making it easier to complete the lessons. I enjoy the refresher and the way concepts are taught on the Brilliant platform. It’s very interactive and explains concepts in a much more relatable way than some introductory courses I've previously taken.
+
+The full learning path consists of 5 levels with 2 units each, making a total of 10 units. My plan is to use the platform for as much revision as possible during my 1-month free trial, as the annual fee of $179 may be difficult to justify alongside my other learning subscriptions.
+
+**Key areas of Focus / Learning / Revision:**
+
+1. JavaScript Functions
 2. Guard Clauses
 3. Ternary Operators
-
-
-### Additional Activities:
---
-
+4. Revisiting the abstract principles and fundamental constructs of:
+- Variables
+- Loops
+- Boolean Expressions and Comparison Operators
 
 
 
