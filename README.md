@@ -4,7 +4,9 @@
 
 ### Also add a custom git contribution tracker just for this next 100 days !
 
-## Day 1 - 18th June 2024
+
+
+<!-- ## Day 1 - 18th June 2024
 
 ### Project: My Personal Portfolio Website
 
@@ -351,7 +353,7 @@ Todays Revision Topics Were:
 
 ### Additional Activities:
 
-- Continued reading the eBook *Ten Ways to Make Money as a Developer* by Florin Pop (25 minutes)
+- Continued reading the eBook *Ten Ways to Make Money as a Developer* by Florin Pop (25 minutes) -->
 
 
 
