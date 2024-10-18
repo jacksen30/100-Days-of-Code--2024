@@ -4,6 +4,19 @@
 
 ### Also add a custom git contribution tracker just for this next 100 days !
 
+## Day 1 - 18th October 2024
+
+### Study: React Fundamentals
+
+To kick off my 100 Days of Code, I focused on refreshing my React skills through Scrimba. I revisited the core concepts that make React so powerful, particularly its Composable and Declarative nature, which simplifies building large-scale applications and websites.
+
+
+**Key areas of Focus / Learning / Revision:**
+
+1. Setting up a React environment correctly.
+2. Building basic components to break down UI into manageable pieces.
+3. Organising files and folders for better project scalability.
+4. Using ES6 syntax for importing and exporting components efficiently.
 
 
 <!-- ## Day 1 - 18th June 2024
