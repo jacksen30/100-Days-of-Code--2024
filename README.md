@@ -19,6 +19,19 @@ To kick off my 100 Days of Code, I focused on refreshing my React skills through
 4. Using ES6 syntax for importing and exporting components efficiently.
 
 
+## Day 2 - 19th October 2024
+
+### Study: React Fundamentals
+
+With just an hour to spare today, I continued with the Scrimba React course. I delved deeper into the advantages of using Vite-React over Create React App, which I’ve traditionally used. Additionally, I explored several React UI libraries like Material UI, Chakra UI, Ant Design, and Semantic UI React. I’m excited to try these libraries soon, as they could significantly speed up my development process, compared to my usual approach of building custom components from scratch.
+
+
+**Key areas of Focus / Learning / Revision:**
+
+1. The benefits of Vite-React over Create React App.
+2. An overview of popular React UI libraries.
+
+
 <!-- ## Day 1 - 18th June 2024
 
 ### Project: My Personal Portfolio Website
