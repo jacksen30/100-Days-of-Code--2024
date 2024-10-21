@@ -32,6 +32,26 @@ With just an hour to spare today, I continued with the Scrimba React course. I d
 2. An overview of popular React UI libraries.
 
 
+## Day 3 - 20th October 2024
+
+Didn't manage to get any coding done today 😭 😭 😭
+
+Total Days Ive Missed During my #100 Days of code : 1
+
+
+
+## Day 4 - 21st October 2024
+
+### Study: React Fundamentals
+
+Today, I continued studying React Fundamentals on Scrimba. The session mainly was further reinforcement of the basic setup, boilerplate code, and React syntax for creating components. A significant portion of time was spent styling components with CSS, which has further motivated me to explore React UI component libraries sooner rather than later to streamline this process for my own projects.
+
+**Key areas of Focus / Learning / Revision:**
+
+1. Further Reinforcement / Practice of React boilerplate and component syntax.
+2. Styling React components with CSS
+
+
 <!-- ## Day 1 - 18th June 2024
 
 ### Project: My Personal Portfolio Website
