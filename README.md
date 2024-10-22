@@ -52,6 +52,18 @@ Today, I continued studying React Fundamentals on Scrimba. The session mainly wa
 2. Styling React components with CSS
 
 
+## Day 5 - 22nd October 2024
+
+### Project: React Business Card Website
+
+Today, I began a solo React project to build a personal business card / professional profile page.
+I completed the main structure and organised all the component files, ensuring a clean and efficient file structure.
+
+**Key areas of Focus / Learning / Revision:**
+
+1.	Setting up a Vite-React app in my local development environment.
+2.	Working from a Figma design file, to ensure the UI design aligns with the requirements outlined by Scrimba.
+
 <!-- ## Day 1 - 18th June 2024
 
 ### Project: My Personal Portfolio Website
