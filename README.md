@@ -64,6 +64,19 @@ I completed the main structure and organised all the component files, ensuring a
 1.	Setting up a Vite-React app in my local development environment.
 2.	Working from a Figma design file, to ensure the UI design aligns with the requirements outlined by Scrimba.
 
+
+## Day 6 - 23rd October 2024
+
+### Project: Agency Website - HTML & CSS
+
+Today, I began building a new website for my freelance/agency work. I was able to repurpose some code I previously wrote for a local modular construction company, streamlining the development process.
+
+**Key areas of Focus:**
+
+1.	Setting up a new Git and GitHub repository for the project.
+2.	Reviewing past projects to identify reusable code, saving valuable development time.
+3.	Creating the initial file structure, setting up the boilerplate for HTML and CSS, and updating all meta tags to be relevant to the new project.
+
 <!-- ## Day 1 - 18th June 2024
 
 ### Project: My Personal Portfolio Website
